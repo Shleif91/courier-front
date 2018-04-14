@@ -111,7 +111,8 @@
         drawer: true,
         items: [
           { icon: 'apps', title: 'Orders', to: '/' },
-          { icon: 'bubble_chart', title: 'Inspire', to: '/inspire' }
+          { icon: 'bubble_chart', title: 'Inspire', to: '/inspire' },
+          { icon: 'bubble_chart', title: 'Edit Form', to: '/edit-form' }
         ],
         miniVariant: false,
         right: true,
